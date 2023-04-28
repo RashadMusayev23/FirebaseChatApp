@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "612429518319",
+    "project_id": "tinderchatapplication",
+    "storage_bucket": "tinderchatapplication.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:612429518319:android:0a54b3a86d9e357bf8d21a",
+        "android_client_info": {
+          "package_name": "com.mazeppa.tinderchatapplication"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "612429518319-8kc9q269om6ngimtvlue105mgioun2u9.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyArowPnp1zcaRUy6hcHmMaieOWxRbtdbiw"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "612429518319-8kc9q269om6ngimtvlue105mgioun2u9.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
